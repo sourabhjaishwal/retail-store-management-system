@@ -1,2 +1,4 @@
 # Retail-Store-Management-system
-Database Management System mini project
+A DBMS mini project on retail store
+Frontend :- Tkinter python
+Backend :- mySQL 
